@@ -1,0 +1,39 @@
+{
+  "parent": "civilization:item/tools/crimson_chainsword/zombie_on",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        -18,
+        0,
+        0
+      ],
+      "translation": [
+        4.5,
+        2.6,
+        0.8
+      ],
+      "scale": [
+        0.52,
+        0.52,
+        0.52
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -18,
+        0,
+        0
+      ],
+      "translation": [
+        4.5,
+        2.6,
+        0.8
+      ],
+      "scale": [
+        0.52,
+        0.52,
+        0.52
+      ]
+    }
+  }
+}

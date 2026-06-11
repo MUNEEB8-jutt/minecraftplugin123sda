@@ -1,0 +1,8374 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uec00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uec01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_02.png",
+      "ascent": 9,
+      "height": 34,
+      "chars": [
+        "\uec02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_03.png",
+      "ascent": 13,
+      "height": 36,
+      "chars": [
+        "\uec03"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_04.png",
+      "ascent": 16,
+      "height": 38,
+      "chars": [
+        "\uec04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_05.png",
+      "ascent": 20,
+      "height": 40,
+      "chars": [
+        "\uec05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_06.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uec06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec08"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec09"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec0a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec0b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec0c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec0d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec0e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec0f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec11"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec12"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_20.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec14"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_21.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uec15"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_22.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uec16"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_23.png",
+      "ascent": 27,
+      "height": 41,
+      "chars": [
+        "\uec17"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_24.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\uec18"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_25.png",
+      "ascent": 31,
+      "height": 39,
+      "chars": [
+        "\uec19"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_26.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uec1a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_27.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uec1b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec1c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec1d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec1e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_00.png",
+      "ascent": 7,
+      "height": 34,
+      "chars": [
+        "\uec1f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 35,
+      "chars": [
+        "\uec20"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 36,
+      "chars": [
+        "\uec21"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 38,
+      "chars": [
+        "\uec22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_04.png",
+      "ascent": 17,
+      "height": 40,
+      "chars": [
+        "\uec23"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_05.png",
+      "ascent": 21,
+      "height": 42,
+      "chars": [
+        "\uec24"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 43,
+      "chars": [
+        "\uec25"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_07.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec26"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_08.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec27"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_09.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec28"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_10.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec29"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_11.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec2a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_12.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec2b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_13.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec2c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_14.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec2d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_15.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec2e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_16.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec2f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_17.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec30"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec31"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_19.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec32"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec33"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_21.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec34"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_22.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uec35"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_23.png",
+      "ascent": 25,
+      "height": 45,
+      "chars": [
+        "\uec36"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_24.png",
+      "ascent": 26,
+      "height": 43,
+      "chars": [
+        "\uec37"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_25.png",
+      "ascent": 28,
+      "height": 43,
+      "chars": [
+        "\uec38"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_26.png",
+      "ascent": 30,
+      "height": 42,
+      "chars": [
+        "\uec39"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_27.png",
+      "ascent": 32,
+      "height": 41,
+      "chars": [
+        "\uec3a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_28.png",
+      "ascent": 34,
+      "height": 41,
+      "chars": [
+        "\uec3b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 40,
+      "chars": [
+        "\uec3c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/quantum_chronoblade_ultimate/phase_30.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uec3d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uec3e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uec3f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uec40"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uec41"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uec42"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uec43"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec44"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec45"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec46"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec47"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec48"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec49"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec4a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec4b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec4c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec4d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec4e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec4f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uec50"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uec51"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uec52"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uec53"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uec54"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uec55"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec56"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec57"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec58"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec59"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec5a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec5b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec5c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uec5d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uec5e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uec5f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uec60"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uec61"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uec62"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec63"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec64"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec65"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec66"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec67"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec68"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec6a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec6b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec6c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec6d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec6e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec6f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uec70"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uec71"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uec72"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_22.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uec73"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_23.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uec74"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_24.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uec75"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_25.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uec76"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec77"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec78"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec79"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec7a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/drakefire_katana_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uec7b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_00.png",
+      "ascent": 5,
+      "height": 29,
+      "chars": [
+        "\uec7c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_01.png",
+      "ascent": 8,
+      "height": 31,
+      "chars": [
+        "\uec7d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_02.png",
+      "ascent": 13,
+      "height": 34,
+      "chars": [
+        "\uec7e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_03.png",
+      "ascent": 19,
+      "height": 37,
+      "chars": [
+        "\uec7f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_04.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec80"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_05.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec81"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_06.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec82"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_07.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec83"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_08.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec84"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_09.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec85"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_10.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec86"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_11.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec87"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_12.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uec88"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_13.png",
+      "ascent": 24,
+      "height": 38,
+      "chars": [
+        "\uec89"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_14.png",
+      "ascent": 28,
+      "height": 37,
+      "chars": [
+        "\uec8a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_15.png",
+      "ascent": 32,
+      "height": 36,
+      "chars": [
+        "\uec8b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_16.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec8c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_17.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec8d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_18.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec8e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_19.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec8f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_20.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec90"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_21.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec91"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_22.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec92"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_23.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec93"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_24.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec94"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_25.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec95"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_26.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec96"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_27.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec97"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_28.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec98"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_29.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec99"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_signature/phase_30.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uec9a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uec9b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uec9c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uec9d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uec9e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uec9f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\ueca0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueca9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecaa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uecad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uecae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uecaf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uecb0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uecb1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uecb2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/goldfang_dagger_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecb9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uecba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_01.png",
+      "ascent": 8,
+      "height": 33,
+      "chars": [
+        "\uecbb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_02.png",
+      "ascent": 12,
+      "height": 36,
+      "chars": [
+        "\uecbc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_03.png",
+      "ascent": 17,
+      "height": 38,
+      "chars": [
+        "\uecbd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_04.png",
+      "ascent": 21,
+      "height": 41,
+      "chars": [
+        "\uecbe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_05.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecbf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecc9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_17.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ueccb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_18.png",
+      "ascent": 26,
+      "height": 41,
+      "chars": [
+        "\ueccc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_19.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\ueccd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_20.png",
+      "ascent": 32,
+      "height": 39,
+      "chars": [
+        "\uecce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_21.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ueccf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_22.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_23.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecd8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uecd9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uecda"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uecdb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uecdc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uecdd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uecde"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecdf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uece9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ueceb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uecec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\ueced"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uecee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uecef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uecf0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloodchain_ripper_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uecf7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uecf8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uecf9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uecfa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uecfb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uecfc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uecfd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecfe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uecff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued03"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued08"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued09"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ued0a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\ued0b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\ued0c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\ued0d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\ued0e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ued0f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued11"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued12"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued14"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued15"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued16"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\ued17"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\ued18"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\ued19"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\ued1a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\ued1b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\ued1c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued1d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued1e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued1f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued20"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued21"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued23"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued24"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued25"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued26"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued27"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued28"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued29"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued2a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ued2b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\ued2c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_22.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\ued2d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_23.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\ued2e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_24.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\ued2f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_25.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ued30"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued31"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued32"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued33"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued34"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/frostnova_chakram_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued35"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\ued36"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\ued37"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\ued38"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\ued39"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\ued3a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\ued3b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued3c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued3d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued3e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued3f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued40"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued41"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued42"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued43"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued44"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued45"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued46"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued47"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued48"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued49"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_20.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ued4a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_21.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\ued4b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_22.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\ued4c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_23.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\ued4d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_24.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\ued4e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_25.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ued4f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued50"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued51"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued52"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued53"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ued54"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_00.png",
+      "ascent": 7,
+      "height": 34,
+      "chars": [
+        "\ued55"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 35,
+      "chars": [
+        "\ued56"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 36,
+      "chars": [
+        "\ued57"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 38,
+      "chars": [
+        "\ued58"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_04.png",
+      "ascent": 17,
+      "height": 40,
+      "chars": [
+        "\ued59"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_05.png",
+      "ascent": 21,
+      "height": 42,
+      "chars": [
+        "\ued5a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 43,
+      "chars": [
+        "\ued5b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_07.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued5c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_08.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued5d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_09.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued5e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_10.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued5f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_11.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued60"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_12.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued61"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_13.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued62"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_14.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued63"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_15.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued64"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_16.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued65"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_17.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued66"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued67"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_19.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued68"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ued69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 45,
+      "chars": [
+        "\ued6a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_22.png",
+      "ascent": 26,
+      "height": 43,
+      "chars": [
+        "\ued6b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_23.png",
+      "ascent": 28,
+      "height": 43,
+      "chars": [
+        "\ued6c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_24.png",
+      "ascent": 30,
+      "height": 42,
+      "chars": [
+        "\ued6d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_25.png",
+      "ascent": 32,
+      "height": 41,
+      "chars": [
+        "\ued6e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_26.png",
+      "ascent": 34,
+      "height": 41,
+      "chars": [
+        "\ued6f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 40,
+      "chars": [
+        "\ued70"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_28.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\ued71"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_29.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\ued72"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/petalstorm_fanblade_ultimate/phase_30.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\ued73"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_00.png",
+      "ascent": 5,
+      "height": 29,
+      "chars": [
+        "\ued74"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_01.png",
+      "ascent": 8,
+      "height": 31,
+      "chars": [
+        "\ued75"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_02.png",
+      "ascent": 13,
+      "height": 34,
+      "chars": [
+        "\ued76"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_03.png",
+      "ascent": 19,
+      "height": 37,
+      "chars": [
+        "\ued77"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_04.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued78"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_05.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued79"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_06.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued7a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_07.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued7b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_08.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued7c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_09.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued7d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_10.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued7e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_11.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued7f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_12.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued80"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_13.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\ued81"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_14.png",
+      "ascent": 23,
+      "height": 39,
+      "chars": [
+        "\ued82"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_15.png",
+      "ascent": 26,
+      "height": 38,
+      "chars": [
+        "\ued83"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_16.png",
+      "ascent": 30,
+      "height": 36,
+      "chars": [
+        "\ued84"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_17.png",
+      "ascent": 33,
+      "height": 35,
+      "chars": [
+        "\ued85"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_18.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued86"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_19.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued87"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_20.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued88"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_21.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued89"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_22.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued8a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_23.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued8b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_24.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued8c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_25.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued8d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_26.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued8e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_27.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued8f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_28.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued90"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_29.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued91"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_signature/phase_30.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\ued92"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\ued93"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 33,
+      "chars": [
+        "\ued94"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_02.png",
+      "ascent": 12,
+      "height": 36,
+      "chars": [
+        "\ued95"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_03.png",
+      "ascent": 17,
+      "height": 38,
+      "chars": [
+        "\ued96"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_04.png",
+      "ascent": 21,
+      "height": 41,
+      "chars": [
+        "\ued97"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_05.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued98"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued99"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued9a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued9b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued9c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued9d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued9e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ued9f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueda0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueda1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueda2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueda3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_17.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ueda4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_18.png",
+      "ascent": 26,
+      "height": 41,
+      "chars": [
+        "\ueda5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_19.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\ueda6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_20.png",
+      "ascent": 32,
+      "height": 39,
+      "chars": [
+        "\ueda7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_21.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ueda8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_22.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueda9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_23.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedaa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedaf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedb0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/stormbreaker_relic_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedb1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_00.png",
+      "ascent": 5,
+      "height": 29,
+      "chars": [
+        "\uedb2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_01.png",
+      "ascent": 8,
+      "height": 31,
+      "chars": [
+        "\uedb3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_02.png",
+      "ascent": 13,
+      "height": 34,
+      "chars": [
+        "\uedb4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_03.png",
+      "ascent": 19,
+      "height": 37,
+      "chars": [
+        "\uedb5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_04.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedb6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_05.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedb7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_06.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedb8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_07.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedb9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_08.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_09.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedbb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_10.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedbc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_11.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedbd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_12.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedbe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_13.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uedbf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_14.png",
+      "ascent": 23,
+      "height": 39,
+      "chars": [
+        "\uedc0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_15.png",
+      "ascent": 26,
+      "height": 38,
+      "chars": [
+        "\uedc1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_16.png",
+      "ascent": 30,
+      "height": 36,
+      "chars": [
+        "\uedc2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_17.png",
+      "ascent": 33,
+      "height": 35,
+      "chars": [
+        "\uedc3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_18.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedc4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_19.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedc5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_20.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedc6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_21.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedc7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_22.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedc8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_23.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedc9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_24.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_25.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedcb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_26.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedcc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_27.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedcd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_28.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_29.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedcf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_signature/phase_30.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uedd0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uedd1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uedd2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uedd3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uedd4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uedd5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uedd6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedd7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedd8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedd9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedda"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueddb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueddc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueddd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedde"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueddf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uede0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uede1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uede2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uede3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uede4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uede5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uede6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uede7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uede8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uede9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedeb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueded"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/sanguine_pike_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uedef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uedf0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uedf1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uedf2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uedf3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uedf4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uedf5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedf6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedf7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedf8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedf9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedfa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedfb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedfc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedfd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedfe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uedff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uee02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uee03"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uee04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uee05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uee06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uee07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee08"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee09"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee0a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee0b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee0c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee0d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee0e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uee0f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uee10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uee11"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uee12"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uee13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uee14"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee15"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee16"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee17"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee18"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee19"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee1a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee1b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee1c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee1d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee1e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee1f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee20"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee21"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uee23"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uee24"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_22.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uee25"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_23.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uee26"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_24.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uee27"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_25.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uee28"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee29"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee2a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee2b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee2c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/voidglass_lich_staff_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee2d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uee2e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uee2f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uee30"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uee31"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uee32"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uee33"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee34"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee35"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee36"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee37"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee38"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee39"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee3a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee3b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee3c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee3d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee3e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee3f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uee40"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uee41"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uee42"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uee43"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uee44"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uee45"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee46"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee47"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee48"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee49"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee4a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee4b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee4c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_00.png",
+      "ascent": 7,
+      "height": 34,
+      "chars": [
+        "\uee4d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 35,
+      "chars": [
+        "\uee4e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_02.png",
+      "ascent": 11,
+      "height": 37,
+      "chars": [
+        "\uee4f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_03.png",
+      "ascent": 15,
+      "height": 39,
+      "chars": [
+        "\uee50"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_04.png",
+      "ascent": 20,
+      "height": 41,
+      "chars": [
+        "\uee51"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_05.png",
+      "ascent": 23,
+      "height": 43,
+      "chars": [
+        "\uee52"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_06.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee53"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_07.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee54"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_08.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee55"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_09.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee56"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_10.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee57"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_11.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee58"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_12.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee59"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_13.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee5a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_14.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee5b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_15.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee5c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_16.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee5d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_17.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee5e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee5f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_19.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uee60"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_20.png",
+      "ascent": 25,
+      "height": 45,
+      "chars": [
+        "\uee61"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_21.png",
+      "ascent": 26,
+      "height": 43,
+      "chars": [
+        "\uee62"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_22.png",
+      "ascent": 29,
+      "height": 42,
+      "chars": [
+        "\uee63"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_23.png",
+      "ascent": 31,
+      "height": 42,
+      "chars": [
+        "\uee64"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_24.png",
+      "ascent": 34,
+      "height": 41,
+      "chars": [
+        "\uee65"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_25.png",
+      "ascent": 35,
+      "height": 40,
+      "chars": [
+        "\uee66"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_26.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uee67"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_27.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uee68"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_28.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uee69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_29.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uee6a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bifrost_wand_ultimate/phase_30.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uee6b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uee6c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_01.png",
+      "ascent": 8,
+      "height": 33,
+      "chars": [
+        "\uee6d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_02.png",
+      "ascent": 12,
+      "height": 36,
+      "chars": [
+        "\uee6e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_03.png",
+      "ascent": 17,
+      "height": 38,
+      "chars": [
+        "\uee6f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_04.png",
+      "ascent": 21,
+      "height": 41,
+      "chars": [
+        "\uee70"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_05.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee71"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee72"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee73"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee74"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee75"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee76"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee77"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee78"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee79"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee7a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_15.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uee7b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_16.png",
+      "ascent": 26,
+      "height": 41,
+      "chars": [
+        "\uee7c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_17.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\uee7d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_18.png",
+      "ascent": 32,
+      "height": 39,
+      "chars": [
+        "\uee7e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_19.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uee7f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_20.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee80"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_21.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee81"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_22.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee82"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_23.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee83"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee84"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee85"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee86"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee87"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee88"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee89"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uee8a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uee8b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uee8c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_02.png",
+      "ascent": 9,
+      "height": 34,
+      "chars": [
+        "\uee8d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_03.png",
+      "ascent": 13,
+      "height": 36,
+      "chars": [
+        "\uee8e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_04.png",
+      "ascent": 16,
+      "height": 38,
+      "chars": [
+        "\uee8f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_05.png",
+      "ascent": 20,
+      "height": 40,
+      "chars": [
+        "\uee90"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_06.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uee91"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee92"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee93"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee94"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee95"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee96"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee97"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee98"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee99"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee9a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee9b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee9c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee9d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee9e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_20.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uee9f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_21.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ueea0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_22.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\ueea1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_23.png",
+      "ascent": 27,
+      "height": 41,
+      "chars": [
+        "\ueea2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_24.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\ueea3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_25.png",
+      "ascent": 31,
+      "height": 39,
+      "chars": [
+        "\ueea4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_26.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\ueea5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_27.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ueea6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueea7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueea8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/necromancer_reaper_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueea9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\ueeaa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_01.png",
+      "ascent": 8,
+      "height": 33,
+      "chars": [
+        "\ueeab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_02.png",
+      "ascent": 12,
+      "height": 36,
+      "chars": [
+        "\ueeac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_03.png",
+      "ascent": 17,
+      "height": 38,
+      "chars": [
+        "\ueead"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_04.png",
+      "ascent": 21,
+      "height": 41,
+      "chars": [
+        "\ueeae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_05.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeaf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeb9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_17.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ueebb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_18.png",
+      "ascent": 26,
+      "height": 41,
+      "chars": [
+        "\ueebc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_19.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\ueebd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_20.png",
+      "ascent": 32,
+      "height": 39,
+      "chars": [
+        "\ueebe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_21.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ueebf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_22.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_23.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\ueec8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_00.png",
+      "ascent": 7,
+      "height": 34,
+      "chars": [
+        "\ueec9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 35,
+      "chars": [
+        "\ueeca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 36,
+      "chars": [
+        "\ueecb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 38,
+      "chars": [
+        "\ueecc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_04.png",
+      "ascent": 17,
+      "height": 40,
+      "chars": [
+        "\ueecd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_05.png",
+      "ascent": 21,
+      "height": 42,
+      "chars": [
+        "\ueece"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 43,
+      "chars": [
+        "\ueecf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_07.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_08.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_09.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_10.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_11.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_12.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_13.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_14.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_15.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_16.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueed9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_17.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueeda"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueedb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_19.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueedc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\ueedd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 45,
+      "chars": [
+        "\ueede"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_22.png",
+      "ascent": 26,
+      "height": 43,
+      "chars": [
+        "\ueedf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_23.png",
+      "ascent": 28,
+      "height": 43,
+      "chars": [
+        "\ueee0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_24.png",
+      "ascent": 30,
+      "height": 42,
+      "chars": [
+        "\ueee1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_25.png",
+      "ascent": 32,
+      "height": 41,
+      "chars": [
+        "\ueee2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_26.png",
+      "ascent": 34,
+      "height": 41,
+      "chars": [
+        "\ueee3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 40,
+      "chars": [
+        "\ueee4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_28.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\ueee5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_29.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\ueee6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/timberlord_axe_ultimate/phase_30.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\ueee7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\ueee8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\ueee9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\ueeea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\ueeeb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\ueeec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\ueeed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueeef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\ueef9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_18.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\ueefa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_19.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\ueefb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_20.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\ueefc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_21.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\ueefd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_22.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\ueefe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_23.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\ueeff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef00"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef01"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef02"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef03"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef04"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef05"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef06"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_00.png",
+      "ascent": 7,
+      "height": 34,
+      "chars": [
+        "\uef07"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 35,
+      "chars": [
+        "\uef08"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 36,
+      "chars": [
+        "\uef09"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 38,
+      "chars": [
+        "\uef0a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_04.png",
+      "ascent": 17,
+      "height": 40,
+      "chars": [
+        "\uef0b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_05.png",
+      "ascent": 21,
+      "height": 42,
+      "chars": [
+        "\uef0c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 43,
+      "chars": [
+        "\uef0d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_07.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef0e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_08.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef0f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_09.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef10"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_10.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef11"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_11.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef12"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_12.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef13"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_13.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef14"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_14.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef15"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_15.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef16"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_16.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef17"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_17.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef18"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_18.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef19"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_19.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef1a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 45,
+      "chars": [
+        "\uef1b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 45,
+      "chars": [
+        "\uef1c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_22.png",
+      "ascent": 26,
+      "height": 43,
+      "chars": [
+        "\uef1d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_23.png",
+      "ascent": 28,
+      "height": 43,
+      "chars": [
+        "\uef1e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_24.png",
+      "ascent": 30,
+      "height": 42,
+      "chars": [
+        "\uef1f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_25.png",
+      "ascent": 32,
+      "height": 41,
+      "chars": [
+        "\uef20"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_26.png",
+      "ascent": 34,
+      "height": 41,
+      "chars": [
+        "\uef21"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 40,
+      "chars": [
+        "\uef22"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_28.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uef23"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_29.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uef24"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/bloomshot_blaster_ultimate/phase_30.png",
+      "ascent": 36,
+      "height": 40,
+      "chars": [
+        "\uef25"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_00.png",
+      "ascent": 5,
+      "height": 29,
+      "chars": [
+        "\uef26"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_01.png",
+      "ascent": 8,
+      "height": 31,
+      "chars": [
+        "\uef27"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_02.png",
+      "ascent": 13,
+      "height": 34,
+      "chars": [
+        "\uef28"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_03.png",
+      "ascent": 19,
+      "height": 37,
+      "chars": [
+        "\uef29"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_04.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef2a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_05.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef2b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_06.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef2c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_07.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef2d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_08.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef2e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_09.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef2f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_10.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef30"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_11.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef31"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_12.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef32"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_13.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef33"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_14.png",
+      "ascent": 23,
+      "height": 39,
+      "chars": [
+        "\uef34"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_15.png",
+      "ascent": 26,
+      "height": 38,
+      "chars": [
+        "\uef35"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_16.png",
+      "ascent": 30,
+      "height": 36,
+      "chars": [
+        "\uef36"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_17.png",
+      "ascent": 33,
+      "height": 35,
+      "chars": [
+        "\uef37"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_18.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef38"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_19.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef39"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_20.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef3a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_21.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef3b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_22.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef3c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_23.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef3d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_24.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef3e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_25.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef3f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_26.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef40"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_27.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef41"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_28.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef42"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_29.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef43"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_signature/phase_30.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef44"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uef45"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_01.png",
+      "ascent": 7,
+      "height": 33,
+      "chars": [
+        "\uef46"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_02.png",
+      "ascent": 10,
+      "height": 35,
+      "chars": [
+        "\uef47"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_03.png",
+      "ascent": 14,
+      "height": 37,
+      "chars": [
+        "\uef48"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_04.png",
+      "ascent": 19,
+      "height": 39,
+      "chars": [
+        "\uef49"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 41,
+      "chars": [
+        "\uef4a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef4b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef4c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef4d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef4e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef4f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef50"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef51"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef52"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef53"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef54"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef55"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_17.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef56"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_18.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef57"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_19.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef58"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_20.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uef59"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_21.png",
+      "ascent": 25,
+      "height": 41,
+      "chars": [
+        "\uef5a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_22.png",
+      "ascent": 28,
+      "height": 40,
+      "chars": [
+        "\uef5b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_23.png",
+      "ascent": 30,
+      "height": 40,
+      "chars": [
+        "\uef5c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_24.png",
+      "ascent": 33,
+      "height": 39,
+      "chars": [
+        "\uef5d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_25.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uef5e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef5f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef60"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef61"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef62"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/hornhook_harpoon_ultimate/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef63"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_00.png",
+      "ascent": 6,
+      "height": 32,
+      "chars": [
+        "\uef64"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_01.png",
+      "ascent": 8,
+      "height": 33,
+      "chars": [
+        "\uef65"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_02.png",
+      "ascent": 12,
+      "height": 36,
+      "chars": [
+        "\uef66"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_03.png",
+      "ascent": 17,
+      "height": 38,
+      "chars": [
+        "\uef67"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_04.png",
+      "ascent": 21,
+      "height": 41,
+      "chars": [
+        "\uef68"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_05.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef69"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_06.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef6a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_07.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef6b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_08.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef6c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_09.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef6d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_10.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef6e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_11.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef6f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_12.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef70"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_13.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef71"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_14.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef72"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_15.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef73"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_16.png",
+      "ascent": 23,
+      "height": 42,
+      "chars": [
+        "\uef74"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_17.png",
+      "ascent": 24,
+      "height": 42,
+      "chars": [
+        "\uef75"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_18.png",
+      "ascent": 26,
+      "height": 41,
+      "chars": [
+        "\uef76"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_19.png",
+      "ascent": 29,
+      "height": 40,
+      "chars": [
+        "\uef77"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_20.png",
+      "ascent": 32,
+      "height": 39,
+      "chars": [
+        "\uef78"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_21.png",
+      "ascent": 34,
+      "height": 38,
+      "chars": [
+        "\uef79"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_22.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef7a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_23.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef7b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_24.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef7c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_25.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef7d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_26.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef7e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_27.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef7f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_28.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef80"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_29.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef81"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_signature/phase_30.png",
+      "ascent": 35,
+      "height": 38,
+      "chars": [
+        "\uef82"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_00.png",
+      "ascent": 5,
+      "height": 29,
+      "chars": [
+        "\uef83"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_01.png",
+      "ascent": 8,
+      "height": 31,
+      "chars": [
+        "\uef84"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_02.png",
+      "ascent": 13,
+      "height": 34,
+      "chars": [
+        "\uef85"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_03.png",
+      "ascent": 19,
+      "height": 37,
+      "chars": [
+        "\uef86"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_04.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef87"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_05.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef88"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_06.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef89"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_07.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef8a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_08.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef8b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_09.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef8c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_10.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef8d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_11.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef8e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_12.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef8f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_13.png",
+      "ascent": 22,
+      "height": 39,
+      "chars": [
+        "\uef90"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_14.png",
+      "ascent": 23,
+      "height": 39,
+      "chars": [
+        "\uef91"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_15.png",
+      "ascent": 26,
+      "height": 38,
+      "chars": [
+        "\uef92"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_16.png",
+      "ascent": 30,
+      "height": 36,
+      "chars": [
+        "\uef93"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_17.png",
+      "ascent": 33,
+      "height": 35,
+      "chars": [
+        "\uef94"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_18.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef95"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_19.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef96"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_20.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef97"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_21.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef98"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_22.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef99"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_23.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef9a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_24.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef9b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_25.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef9c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_26.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef9d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_27.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef9e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_28.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uef9f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_29.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uefa0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "legendary:font/ability_icons/tempest_sonicbow_ultimate/phase_30.png",
+      "ascent": 34,
+      "height": 35,
+      "chars": [
+        "\uefa1"
+      ]
+    }
+  ]
+}

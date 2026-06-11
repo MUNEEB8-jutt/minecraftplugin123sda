@@ -1,0 +1,89 @@
+weapons:
+  quantum_chronoblade:
+    enabled: true
+    normal-damage: 5.0
+    signature-damage: 4.6
+    signature-finisher-damage: 6.2
+    signature-range: 72.0
+    signature-orbit-radius: 4.5
+    signature-arm-window-ticks: 600
+    signature-crater-radius: 3.0
+    signature-crater-restore-ticks: -1
+    ultimate-damage: 5.2
+    ultimate-ground-decay-damage: 1.0
+    ultimate-radius: 6.0
+    ultimate-charge-ticks: 40
+    ultimate-freeze-ticks: 140
+    ultimate-orbit-radius: 6.0
+    ultimate-orbit-cube-count: 16
+  drakefire_katana:
+    enabled: true
+    normal-damage: 5.0
+    signature-damage: 6.2
+    ultimate-damage: 6.2
+  goldfang_dagger:
+    enabled: true
+    normal-damage: 4.6
+    signature-damage: 5.8
+    ultimate-damage: 6.6
+  bloodchain_ripper:
+    enabled: true
+    normal-damage: 5.4
+    signature-damage: 5.8
+    ultimate-damage: 6.4
+    ultimate-tick-damage: 1.0
+  frostnova_chakram:
+    enabled: true
+    normal-damage: 4.8
+    signature-damage: 6.4
+    ultimate-damage: 5.4
+  petalstorm_fanblade:
+    enabled: true
+    normal-damage: 4.6
+    signature-damage: 4.8
+    ultimate-damage: 4.6
+  stormbreaker_relic:
+    enabled: true
+    normal-damage: 5.8
+    signature-damage: 7.2
+    ultimate-damage: 8.2
+  sanguine_pike:
+    enabled: true
+    normal-damage: 5.2
+    signature-damage: 6.3
+    ultimate-damage: 6.2
+  voidglass_lich_staff:
+    enabled: true
+    normal-damage: 4.6
+    signature-damage: 5.4
+    ultimate-damage: 4.5
+  bifrost_wand:
+    enabled: true
+    normal-damage: 4.4
+    signature-damage: 5.4
+    ultimate-damage: 5.8
+  necromancer_reaper:
+    enabled: true
+    normal-damage: 5.2
+    signature-damage: 6.6
+    ultimate-tick-damage: 2.4
+  timberlord_axe:
+    enabled: true
+    normal-damage: 5.6
+    signature-damage: 5.8
+    ultimate-damage: 4.4
+  bloomshot_blaster:
+    enabled: true
+    normal-damage: 4.8
+    signature-damage: 4.8
+    ultimate-damage: 4.0
+  hornhook_harpoon:
+    enabled: true
+    normal-damage: 4.8
+    signature-damage: 5.8
+    ultimate-damage: 3.2
+  tempest_sonicbow:
+    enabled: true
+    normal-damage: 5.4
+    signature-damage: 5.2
+    ultimate-damage: 8.0

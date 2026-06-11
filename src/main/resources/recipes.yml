@@ -1,0 +1,183 @@
+recipes:
+  quantum_chronoblade:
+    shape: ["OEO", "ANA", "OEO"]
+    ingredients:
+      O: minecraft:obsidian
+      E: minecraft:ender_eye
+      A: minecraft:amethyst_shard
+      N: minecraft:nether_star
+    amounts:
+      O: 12
+      E: 10
+      A: 24
+      N: 3
+  drakefire_katana:
+    shape: ["BFB", "RNR", "BFB"]
+    ingredients:
+      B: minecraft:blaze_rod
+      F: minecraft:fire_charge
+      R: minecraft:redstone_block
+      N: minecraft:nether_star
+    amounts:
+      B: 24
+      F: 16
+      R: 48
+      N: 3
+  goldfang_dagger:
+    shape: ["GEG", "ANA", "GEG"]
+    ingredients:
+      G: minecraft:gold_block
+      E: minecraft:emerald
+      A: minecraft:amethyst_shard
+      N: minecraft:nether_star
+    amounts:
+      G: 48
+      E: 32
+      A: 24
+      N: 3
+  bloodchain_ripper:
+    shape: ["ICI", "RNR", "ICI"]
+    ingredients:
+      I: minecraft:iron_block
+      C: minecraft:chain
+      R: minecraft:redstone_block
+      N: minecraft:nether_star
+    amounts:
+      I: 32
+      C: 32
+      R: 48
+      N: 3
+  frostnova_chakram:
+    shape: ["IPI", "SNG", "IPI"]
+    ingredients:
+      I: minecraft:packed_ice
+      P: minecraft:prismarine_shard
+      S: minecraft:snow_block
+      G: minecraft:glowstone_dust
+      N: minecraft:nether_star
+    amounts:
+      I: 32
+      P: 24
+      S: 48
+      G: 64
+      N: 3
+  petalstorm_fanblade:
+    shape: ["CPC", "ANA", "CPC"]
+    ingredients:
+      C: minecraft:cherry_leaves
+      P: minecraft:pink_petals
+      A: minecraft:amethyst_shard
+      N: minecraft:nether_star
+    amounts:
+      C: 48
+      P: 64
+      A: 24
+      N: 3
+  stormbreaker_relic:
+    shape: ["LCL", "TNT", "LCL"]
+    ingredients:
+      L: minecraft:lightning_rod
+      C: minecraft:copper_block
+      T: minecraft:trial_key
+      N: minecraft:nether_star
+    amounts:
+      L: 16
+      C: 32
+      T: 2
+      N: 3
+  sanguine_pike:
+    shape: ["RIR", "BNB", "RIR"]
+    ingredients:
+      R: minecraft:redstone_block
+      I: minecraft:iron_block
+      B: minecraft:blaze_rod
+      N: minecraft:nether_star
+    amounts:
+      R: 48
+      I: 32
+      B: 24
+      N: 3
+  voidglass_lich_staff:
+    shape: ["SOS", "BNB", "SOS"]
+    ingredients:
+      S: minecraft:soul_sand
+      O: minecraft:crying_obsidian
+      B: minecraft:bone_block
+      N: minecraft:nether_star
+    amounts:
+      S: 32
+      O: 12
+      B: 24
+      N: 3
+  bifrost_wand:
+    shape: ["GAG", "DND", "GAG"]
+    ingredients:
+      G: minecraft:glowstone
+      A: minecraft:amethyst_shard
+      D: minecraft:diamond
+      N: minecraft:nether_star
+    amounts:
+      G: 24
+      A: 24
+      D: 10
+      N: 3
+  necromancer_reaper:
+    shape: ["BSB", "CNC", "BSB"]
+    ingredients:
+      B: minecraft:bone_block
+      S: minecraft:soul_soil
+      C: minecraft:crying_obsidian
+      N: minecraft:nether_star
+    amounts:
+      B: 24
+      S: 32
+      C: 12
+      N: 3
+  timberlord_axe:
+    shape: ["LML", "RNR", "LML"]
+    ingredients:
+      L: minecraft:oak_log
+      M: minecraft:moss_block
+      R: minecraft:resin_block
+      N: minecraft:nether_star
+    amounts:
+      L: 48
+      M: 48
+      R: 24
+      N: 3
+  bloomshot_blaster:
+    shape: ["FPF", "HNH", "FPF"]
+    ingredients:
+      F: minecraft:flowering_azalea
+      P: minecraft:pink_petals
+      H: minecraft:honeycomb_block
+      N: minecraft:nether_star
+    amounts:
+      F: 48
+      P: 64
+      H: 24
+      N: 3
+  hornhook_harpoon:
+    shape: ["CTC", "PNP", "CTC"]
+    ingredients:
+      C: minecraft:chain
+      T: minecraft:trident
+      P: minecraft:prismarine
+      N: minecraft:nether_star
+    amounts:
+      C: 32
+      T: 2
+      P: 32
+      N: 3
+  tempest_sonicbow:
+    shape: ["SCS", "RNR", "SCS"]
+    ingredients:
+      S: minecraft:sculk_sensor
+      C: minecraft:copper_block
+      R: minecraft:redstone_block
+      N: minecraft:nether_star
+    amounts:
+      S: 32
+      C: 32
+      R: 48
+      N: 3

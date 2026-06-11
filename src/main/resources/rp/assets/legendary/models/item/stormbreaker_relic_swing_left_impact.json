@@ -1,0 +1,39 @@
+{
+  "parent": "civilization:item/tools/mjolnir/shattered",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        6,
+        104,
+        -68
+      ],
+      "translation": [
+        1.6,
+        2.2,
+        -1.6
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        6,
+        -104,
+        68
+      ],
+      "translation": [
+        1.6,
+        2.2,
+        -1.6
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    }
+  }
+}

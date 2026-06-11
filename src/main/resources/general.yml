@@ -1,0 +1,22 @@
+resource-pack:
+  host: 0.0.0.0
+  public-host: ""
+  port: 8127
+  force: true
+  prompt: "Legendary weapons assets are required"
+  auto-send-on-join: true
+performance:
+  max-active-rituals: 15
+  async-pack-generation: true
+abilities:
+  radius: 8.0
+  knockback-strength: 2.2
+  normal-hit-damage-hearts: 3.0
+  ability-hit-damage-hearts: 3.0
+  repeated-ability-damage-hearts: 0.5
+  area-ability-damage-hearts: 1.5
+  true-ability-damage-hearts: 3.0
+messages:
+  prefix: "&6[Legendary]&r "
+legendary:
+  weapon-limit: 1

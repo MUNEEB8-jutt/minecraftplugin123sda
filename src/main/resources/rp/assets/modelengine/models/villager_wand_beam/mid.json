@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"faces":{"down":{"rotation":0,"texture":"#0","tintindex":0,"uv":[15.25,1.5,13.75,3.0]},"up":{"rotation":0,"texture":"#0","tintindex":0,"uv":[15.25,1.5,13.75,0.0]}},"from":[-3.0,7.0,10.0],"to":[3.0,7.0,16.0]}],"textures":{"0":"modelengine:custom/villager_wand_beam","particle":"#0"}}

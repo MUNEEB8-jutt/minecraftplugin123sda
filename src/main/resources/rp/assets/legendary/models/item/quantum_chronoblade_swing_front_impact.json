@@ -1,0 +1,39 @@
+{
+  "parent": "civilization:item/tools/chrono_sword/engineers",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        42,
+        0,
+        0
+      ],
+      "translation": [
+        4.5,
+        2.1,
+        -4.4
+      ],
+      "scale": [
+        0.72,
+        0.72,
+        0.72
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        42,
+        0,
+        0
+      ],
+      "translation": [
+        4.5,
+        2.1,
+        -4.4
+      ],
+      "scale": [
+        0.72,
+        0.72,
+        0.72
+      ]
+    }
+  }
+}

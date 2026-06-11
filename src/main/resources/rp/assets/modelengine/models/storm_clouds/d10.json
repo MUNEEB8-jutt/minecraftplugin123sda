@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"faces":{"east":{"rotation":0,"texture":"#0","tintindex":0,"uv":[13.25,13.75,14.25,14.75]},"west":{"rotation":0,"texture":"#0","tintindex":0,"uv":[6.25,4.75,6.5,5.5]}},"from":[8.0,6.5,7.5],"to":[8.0,9.5,8.5]}],"textures":{"0":"modelengine:custom/storm_clouds","particle":"#0"}}

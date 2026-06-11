@@ -1,0 +1,16 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "sigil": "item/bat_sigil"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 7.95],
+      "to": [16, 16, 8.05],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#sigil" },
+        "south": { "uv": [16, 0, 0, 16], "texture": "#sigil" }
+      }
+    }
+  ]
+}

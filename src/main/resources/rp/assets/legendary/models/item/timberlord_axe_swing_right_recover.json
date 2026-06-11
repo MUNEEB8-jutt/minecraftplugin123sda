@@ -1,0 +1,15 @@
+{
+  "parent": "civilization:item/tools/lumberjack_axe",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [14, 10, 8],
+      "translation": [4.75, 2.05, -2.35],
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "firstperson_lefthand": {
+      "rotation": [14, -10, -8],
+      "translation": [4.75, 2.05, -2.35],
+      "scale": [0.6, 0.6, 0.6]
+    }
+  }
+}

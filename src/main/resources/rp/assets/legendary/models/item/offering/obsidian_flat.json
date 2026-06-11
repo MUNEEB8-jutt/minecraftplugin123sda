@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.6",
+  "texture_size": [16, 16],
+  "textures": {
+    "0": "minecraft:block/obsidian",
+    "particle": "minecraft:block/obsidian"
+  },
+  "display": {
+    "gui": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [1, 1, 1]
+    },
+    "fixed": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [1, 1, 1]
+    }
+  },
+  "elements": [
+    {
+      "from": [0, 0, 7.98],
+      "to": [16, 16, 8.02],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+      }
+    }
+  ]
+}

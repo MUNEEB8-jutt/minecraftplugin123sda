@@ -1,0 +1,15 @@
+{
+  "parent": "civilization:item/tools/dragon_katana/dragonbreath",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [14, 18, -8],
+      "translation": [4.25, 2.05, -2.35],
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "firstperson_lefthand": {
+      "rotation": [14, -18, 8],
+      "translation": [4.25, 2.05, -2.35],
+      "scale": [0.6, 0.6, 0.6]
+    }
+  }
+}

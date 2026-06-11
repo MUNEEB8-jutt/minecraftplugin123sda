@@ -1,0 +1,39 @@
+{
+  "parent": "zombies:item/tools/sanguine_spear/default",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        -28,
+        198,
+        -48
+      ],
+      "translation": [
+        -2.4,
+        3.0,
+        0.6
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -28,
+        -198,
+        48
+      ],
+      "translation": [
+        -2.4,
+        3.0,
+        0.6
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    }
+  }
+}

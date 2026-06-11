@@ -1,0 +1,12 @@
+ritual:
+  duration-seconds: 600
+  progress-broadcast-interval-seconds: 20
+  structure-radius: 8
+  zone-radius: 25
+  empty-fail-seconds: 120
+  failure-cooldown-seconds: 120
+  integrity-threshold: 0.72
+  pulse-interval-seconds: 10
+  build-delay-ticks: 1
+  build-blocks-per-step: 9999
+  allow-lightning: true

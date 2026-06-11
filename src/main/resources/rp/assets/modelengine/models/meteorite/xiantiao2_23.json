@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"faces":{"up":{"rotation":0,"texture":"#0","tintindex":0,"uv":[10.078125,6.046875,12.078125,8.046875]}},"from":[-10.908394,8.0039625,-12.043083],"rotation":{"angle":-45.0,"axis":"y","origin":[8.0,7.49507,6.86531]},"to":[10.42494,8.0039625,9.29025]}],"textures":{"0":"modelengine:custom/fireball","particle":"#0"}}

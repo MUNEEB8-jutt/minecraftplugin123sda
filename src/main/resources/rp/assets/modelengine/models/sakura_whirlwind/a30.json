@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"faces":{"down":{"rotation":0,"texture":"#0","tintindex":0,"uv":[9.0,10.0,6.0,16.0]},"up":{"rotation":0,"texture":"#0","tintindex":0,"uv":[11.0,8.0,8.0,5.0]}},"from":[6.5,8.11328,6.5],"to":[9.5,8.11328,11.69532]}],"textures":{"0":"modelengine:custom/sakura_whirlwind","particle":"#0"}}

@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}},"elements":[{"faces":{"down":{"rotation":0,"texture":"#0","tintindex":0,"uv":[6.0625,0.0,4.0625,2.0]},"up":{"rotation":0,"texture":"#0","tintindex":0,"uv":[2.0,6.0625,0.0,4.0625]}},"from":[-8.0,8.0,-8.0],"to":[24.0,8.0,24.0]}],"textures":{"0":"modelengine:custom/splash_kill_effect","particle":"#0"}}

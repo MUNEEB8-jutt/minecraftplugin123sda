@@ -1,0 +1,46 @@
+# Build output
+/target/
+*.class
+
+# Local toolchains and caches
+/.tools/
+/.tmp/
+/.tmp-*/
+/tools/apache-maven-*/
+
+# Generated previews and exports
+/generated/
+/review_assets/
+/verification/
+/resourcepack-output/
+/minecraft-weapons-plugin.zip
+*.mp4
+
+# Imported source packs already bundled into src/main/resources/rp
+/assets/
+/custom_weapon_models_15_unique_by_weapon/
+/GlorySmp2-v1.0/
+/hancik-colourful_swords-1_21_4-RP/
+/LegendaryWeaponsSMP_Useful_Custom_VFX_Assets_Only/
+/LegendaryWeaponsSMP_Useful_Particles_And_VFX_From_Curse/
+/nongko's_Fantasy_Weapons_v1.17A/
+/RESOURCEPACK ASSETS IF NEEDED/
+/RxGlorySMP-S2Texture/
+/thescythepack/
+/xGlorySMP Texture Pack/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Runtime/server state
+logs/
+world/
+world_nether/
+world_the_end/
+plugins/
+*.log
