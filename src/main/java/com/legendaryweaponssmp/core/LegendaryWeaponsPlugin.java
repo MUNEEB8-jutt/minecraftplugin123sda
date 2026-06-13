@@ -15,7 +15,6 @@ import com.legendaryweaponssmp.rituals.RitualMobProtectionListener;
 import com.legendaryweaponssmp.rituals.RitualProtectionListener;
 import com.legendaryweaponssmp.structures.RitualStructureBuilder;
 import com.legendaryweaponssmp.ui.RitualSelectionMenu;
-import com.legendaryweaponssmp.ui.WeaponInfoMenu;
 import com.legendaryweaponssmp.weapons.LegendaryItemListener;
 import com.legendaryweaponssmp.weapons.LegendaryStateStore;
 import com.legendaryweaponssmp.weapons.WeaponItemFactory;
@@ -76,8 +75,6 @@ public class LegendaryWeaponsPlugin extends JavaPlugin {
         Bukkit.getPluginManager().registerEvents(new LegendaryItemListener(this, configManager, weaponItemFactory, stateStore, messageService), this);
         Bukkit.getPluginManager().registerEvents(new ResourcePackListener(resourcePackManager, configManager, messageService, ritualManager), this);
         Bukkit.getPluginManager().registerEvents(new RitualSelectionMenu(configManager, ritualManager, ritualBoxService, stateStore, messageService), this);
-        WeaponInfoMenu weaponInfoMenu = new WeaponInfoMenu(configManager, weaponItemFactory);
-        Bukkit.getPluginManager().registerEvents(weaponInfoMenu, this);
 
         PluginCommand command = getCommand("legendary");
         if (command != null) {
@@ -89,8 +86,7 @@ public class LegendaryWeaponsPlugin extends JavaPlugin {
                 stateStore,
                 ritualBoxService,
                 ritualManager,
-                resourcePackManager,
-                weaponInfoMenu
+                resourcePackManager
             );
             command.setExecutor(executor);
             command.setTabCompleter(executor);

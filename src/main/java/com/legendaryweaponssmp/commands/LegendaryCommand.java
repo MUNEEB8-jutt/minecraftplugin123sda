@@ -6,7 +6,6 @@ import com.legendaryweaponssmp.resourcepack.ResourcePackManager;
 import com.legendaryweaponssmp.rituals.RitualBoxService;
 import com.legendaryweaponssmp.rituals.RitualManager;
 import com.legendaryweaponssmp.structures.SchematicPasteService;
-import com.legendaryweaponssmp.ui.WeaponInfoMenu;
 import com.legendaryweaponssmp.weapons.LegendaryStateStore;
 import com.legendaryweaponssmp.weapons.WeaponItemFactory;
 import com.legendaryweaponssmp.weapons.WeaponType;
@@ -55,7 +54,6 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
     private final RitualManager ritualManager;
     private final ResourcePackManager resourcePackManager;
     private final SchematicPasteService schematicPasteService;
-    private final WeaponInfoMenu weaponInfoMenu;
 
     public LegendaryCommand(JavaPlugin plugin,
                             ConfigManager configManager,
@@ -64,8 +62,7 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
                             LegendaryStateStore stateStore,
                             RitualBoxService ritualBoxService,
                             RitualManager ritualManager,
-                            ResourcePackManager resourcePackManager,
-                            WeaponInfoMenu weaponInfoMenu) {
+                            ResourcePackManager resourcePackManager) {
         this.plugin = plugin;
         this.configManager = configManager;
         this.messageService = messageService;
@@ -74,14 +71,12 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
         this.ritualBoxService = ritualBoxService;
         this.ritualManager = ritualManager;
         this.resourcePackManager = resourcePackManager;
-        this.weaponInfoMenu = weaponInfoMenu;
         this.schematicPasteService = new SchematicPasteService(plugin, messageService);
     }
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (args.length == 0) {
-            messageService.send(sender, "&d/legendary info [weapon]");
             messageService.send(sender, "&e/legendary give <player> <weapon|core> <id>");
             messageService.send(sender, "&e/legendary ritual spawn <weapon>");
             messageService.send(sender, "&e/legendary ritual spawn all");
@@ -96,10 +91,6 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
             return true;
         }
         String sub = args[0].toLowerCase(Locale.ROOT);
-        if (sub.equals("info")) {
-            handleWeaponInfo(sender, args);
-            return true;
-        }
         if (!hasAdmin(sender)) {
             messageService.send(sender, "&cYou don't have permission for this subcommand.");
             return true;
@@ -112,23 +103,6 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
             default -> messageService.send(sender, "&cUnknown subcommand. Use /legendary for help.");
         }
         return true;
-    }
-
-    private void handleWeaponInfo(CommandSender sender, String[] args) {
-        if (!(sender instanceof Player player)) {
-            messageService.send(sender, "&cThis command can only be used by players.");
-            return;
-        }
-        if (args.length < 2) {
-            weaponInfoMenu.open(player);
-            return;
-        }
-        Optional<WeaponType> typeOpt = WeaponType.byId(args[1]);
-        if (typeOpt.isEmpty() || !configManager.isWeaponEnabled(typeOpt.get())) {
-            messageService.send(sender, "&cInvalid or disabled weapon id.");
-            return;
-        }
-        weaponInfoMenu.open(player, typeOpt.get());
     }
 
     private void handleRitualCommand(CommandSender sender, String[] args) {
@@ -691,16 +665,10 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
     public List<String> onTabComplete(CommandSender sender, Command command, String alias, String[] args) {
         if (args.length == 1) {
             List<String> subs = hasAdmin(sender)
-                ? Arrays.asList("info", "give", "ritual", "setweaponlimit", "reload")
-                : List.of("info");
+                ? Arrays.asList("give", "ritual", "setweaponlimit", "reload")
+                : List.of();
             return subs.stream()
                 .filter(s -> s.toLowerCase(Locale.ROOT).startsWith(args[0].toLowerCase(Locale.ROOT)))
-                .collect(Collectors.toList());
-        }
-        if (args.length == 2 && args[0].equalsIgnoreCase("info")) {
-            return configManager.enabledWeaponTypes().stream()
-                .map(WeaponType::id)
-                .filter(id -> id.startsWith(args[1].toLowerCase(Locale.ROOT)))
                 .collect(Collectors.toList());
         }
         if (args.length == 2 && args[0].equalsIgnoreCase("setweaponlimit")) {

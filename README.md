@@ -41,7 +41,6 @@ Plugin generates and uses:
 
 ## Commands
 
-- `/legendary info [weapon]`
 - `/legendary give <player> <weapon|core> <id>`
 - `/legendary ritual spawn <weapon|all>`
 - `/legendary ritual reveal <weapon|dungeon>`
