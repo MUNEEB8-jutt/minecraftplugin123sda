@@ -189,50 +189,40 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
 
     private void giveAllWeapons(CommandSender sender, Player target) {
         int given = 0;
-        int skipped = 0;
         for (WeaponType type : configManager.enabledWeaponTypes()) {
-            if (giveWeapon(sender, target, type, false)) {
-                given++;
-            } else {
-                skipped++;
+            Map<Integer, ItemStack> overflow = target.getInventory().addItem(itemFactory.create(type));
+            for (ItemStack item : overflow.values()) {
+                target.getWorld().dropItemNaturally(target.getLocation(), item);
             }
+            stateStore.markCreated(type, target.getUniqueId());
+            given++;
         }
 
         if (given == 0) {
-            messageService.send(sender, "&cNo legendary weapons were given. Existing weapon limits blocked all enabled weapons.");
+            messageService.send(sender, "&cNo legendary weapons are currently enabled.");
             return;
         }
 
-        String suffix = skipped > 0 ? " &7(" + skipped + " skipped by weapon limits)" : "";
         messageService.send(sender, "&aGave all available legendary weapons to " + target.getName()
-            + " &7(" + given + " weapons)" + suffix);
+            + " &7(" + given + " weapons)");
     }
 
     private void giveWeapon(CommandSender sender, Player target, WeaponType type) {
-        giveWeapon(sender, target, type, true);
-    }
-
-    private boolean giveWeapon(CommandSender sender, Player target, WeaponType type, boolean announce) {
         boolean bypassLimit = sender.isOp()
             && (target.getGameMode() == GameMode.CREATIVE
             || ((sender instanceof Player playerSender) && playerSender.getGameMode() == GameMode.CREATIVE));
         int weaponLimit = configManager.weaponLimit();
         if (!bypassLimit && !stateStore.canCreate(type, weaponLimit)) {
-            if (announce) {
-                messageService.send(sender, "&c" + type.displayName() + " limit reached (&f" + weaponLimit + "&c).");
-            }
-            return false;
+            messageService.send(sender, "&c" + type.displayName() + " limit reached (&f" + weaponLimit + "&c).");
+            return;
         }
         target.getInventory().addItem(itemFactory.create(type));
         stateStore.markCreated(type, target.getUniqueId());
-        if (announce && bypassLimit) {
+        if (bypassLimit) {
             messageService.send(sender, "&a[Creative OP Bypass] Gave " + type.displayName() + " to " + target.getName());
-            return true;
+            return;
         }
-        if (announce) {
-            messageService.send(sender, "&aGave " + type.displayName() + " to " + target.getName());
-        }
-        return true;
+        messageService.send(sender, "&aGave " + type.displayName() + " to " + target.getName());
     }
 
     private void handleStartRitual(CommandSender sender, String[] args) {
