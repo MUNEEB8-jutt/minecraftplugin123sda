@@ -42,6 +42,7 @@ Plugin generates and uses:
 ## Commands
 
 - `/legendary give <player> <weapon|core> <id>`
+- `/legendary give weapon all` - gives every enabled legendary weapon to yourself
 - `/legendary ritual spawn <weapon|all>`
 - `/legendary ritual reveal <weapon|dungeon>`
 - `/legendary ritual unreveal [weapon]`

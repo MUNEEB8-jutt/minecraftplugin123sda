@@ -1,6 +1,6 @@
 name: LegendaryWeaponsSMP
 main: com.legendaryweaponssmp.core.LegendaryWeaponsPlugin
-version: 1.0.89
+version: 1.0.90
 api-version: '1.21'
 author: LegendaryWeaponsSMP
 folia-supported: false

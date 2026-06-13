@@ -78,6 +78,7 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (args.length == 0) {
             messageService.send(sender, "&e/legendary give <player> <weapon|core> <id>");
+            messageService.send(sender, "&e/legendary give weapon all");
             messageService.send(sender, "&e/legendary ritual spawn <weapon>");
             messageService.send(sender, "&e/legendary ritual spawn all");
             messageService.send(sender, "&e/legendary ritual reveal <weapon>");
@@ -131,8 +132,19 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
     private void handleGive(CommandSender sender, String[] args) {
         if (args.length < 3) {
             messageService.send(sender, "&cUsage: /legendary give <player> <weapon|core> <id>");
+            messageService.send(sender, "&cOr: /legendary give weapon all");
             return;
         }
+
+        if (args.length == 3 && isWeaponMode(args[1]) && args[2].equalsIgnoreCase("all")) {
+            if (!(sender instanceof Player player)) {
+                messageService.send(sender, "&cOnly players can use /legendary give weapon all.");
+                return;
+            }
+            giveAllWeapons(sender, player);
+            return;
+        }
+
         Player target = Bukkit.getPlayerExact(args[1]);
         if (target == null) {
             messageService.send(sender, "&cPlayer not found.");
@@ -175,22 +187,52 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
         messageService.send(sender, "&cType must be &fweapon &cor &fcore&c.");
     }
 
+    private void giveAllWeapons(CommandSender sender, Player target) {
+        int given = 0;
+        int skipped = 0;
+        for (WeaponType type : configManager.enabledWeaponTypes()) {
+            if (giveWeapon(sender, target, type, false)) {
+                given++;
+            } else {
+                skipped++;
+            }
+        }
+
+        if (given == 0) {
+            messageService.send(sender, "&cNo legendary weapons were given. Existing weapon limits blocked all enabled weapons.");
+            return;
+        }
+
+        String suffix = skipped > 0 ? " &7(" + skipped + " skipped by weapon limits)" : "";
+        messageService.send(sender, "&aGave all available legendary weapons to " + target.getName()
+            + " &7(" + given + " weapons)" + suffix);
+    }
+
     private void giveWeapon(CommandSender sender, Player target, WeaponType type) {
+        giveWeapon(sender, target, type, true);
+    }
+
+    private boolean giveWeapon(CommandSender sender, Player target, WeaponType type, boolean announce) {
         boolean bypassLimit = sender.isOp()
             && (target.getGameMode() == GameMode.CREATIVE
             || ((sender instanceof Player playerSender) && playerSender.getGameMode() == GameMode.CREATIVE));
         int weaponLimit = configManager.weaponLimit();
         if (!bypassLimit && !stateStore.canCreate(type, weaponLimit)) {
-            messageService.send(sender, "&c" + type.displayName() + " limit reached (&f" + weaponLimit + "&c).");
-            return;
+            if (announce) {
+                messageService.send(sender, "&c" + type.displayName() + " limit reached (&f" + weaponLimit + "&c).");
+            }
+            return false;
         }
         target.getInventory().addItem(itemFactory.create(type));
         stateStore.markCreated(type, target.getUniqueId());
-        if (bypassLimit) {
+        if (announce && bypassLimit) {
             messageService.send(sender, "&a[Creative OP Bypass] Gave " + type.displayName() + " to " + target.getName());
-            return;
+            return true;
         }
-        messageService.send(sender, "&aGave " + type.displayName() + " to " + target.getName());
+        if (announce) {
+            messageService.send(sender, "&aGave " + type.displayName() + " to " + target.getName());
+        }
+        return true;
     }
 
     private void handleStartRitual(CommandSender sender, String[] args) {
@@ -732,12 +774,21 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
                 .collect(Collectors.toList());
         }
         if (args.length == 2 && args[0].equalsIgnoreCase("give")) {
-            return Bukkit.getOnlinePlayers().stream()
+            List<String> targets = new ArrayList<>();
+            targets.add("weapon");
+            targets.addAll(Bukkit.getOnlinePlayers().stream()
                 .map(Player::getName)
+                .toList());
+            return targets.stream()
                 .filter(n -> n.toLowerCase(Locale.ROOT).startsWith(args[1].toLowerCase(Locale.ROOT)))
                 .collect(Collectors.toList());
         }
         if (args.length == 3 && args[0].equalsIgnoreCase("give")) {
+            if (isWeaponMode(args[1])) {
+                return List.of("all").stream()
+                    .filter(s -> s.startsWith(args[2].toLowerCase(Locale.ROOT)))
+                    .collect(Collectors.toList());
+            }
             if (configManager.enabledWeaponTypes().isEmpty()) {
                 return List.of();
             }
@@ -753,6 +804,12 @@ public class LegendaryCommand implements CommandExecutor, TabCompleter, Listener
             return ids.stream().filter(s -> s.startsWith(args[3].toLowerCase(Locale.ROOT))).collect(Collectors.toList());
         }
         return List.of();
+    }
+
+    private boolean isWeaponMode(String value) {
+        return value.equalsIgnoreCase("weapon")
+            || value.equalsIgnoreCase("weapons")
+            || value.equalsIgnoreCase("w");
     }
 
     private boolean ensureWeaponEnabled(CommandSender sender, WeaponType type) {
